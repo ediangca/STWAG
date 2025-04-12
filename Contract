@@ -1,0 +1,136 @@
+Spin To Win and Gain (STWAG) 
+Mobile App Project Contract
+Parties
+This contract is entered into by the 13 founding members and developers of the Spin To Win and Gain (STWAG) Mobile App.
+Project Objectives
+The objective of this project is to develop a mobile application to automate the STWAG fundraising process.
+Term
+All transactions within the app will be conducted using points instead of currency.
+Rationale
+A group of 13 individuals voluntarily pools financial resources to support members in terms of health, livelihood, and emergency expenses. To sustain and grow these funds, the group initiated an income-generating project known as Spin to Win and Gain (STWAG). Since January 2025, a temporary gaming app has been used to facilitate fundraising through a spinning wheel game, where numbers 00-99 are available for purchase at Php10.00 per night. A portion of the funds collected contributes to general savings.
+However, challenges have emerged, including the inconvenience of manually handling ticket sales, spinning the wheel, and transferring funds. To streamline the process while maintaining the group’s social purpose, a dedicated STWAG mobile app is proposed.
+________________________________________
+Scope of the Project
+a. User Registration & Authentication
+•	Members must log in to access the platform.
+•	A user cannot log in without a reference or upline code.
+•	Every user (unless a root member/one of the 13 founding members) is a downline member.
+•	Sign-up bonus: 10 points (non-withdrawable)
+•	Cashback: If a user places a bet or tops up five consecutive times, they receive a 1% points or 5 points(which is higher) cashback reward (non-withdrawable).
+•	Security Restriction: One user is limited to one device only.
+b. Money/Wallet Management
+•	Top-up Wallet: Users can add 1 to 1000 points per transaction.
+•	Withdrawal: Minimum withdrawal is 10 points.
+•	Manual Transactions: All top-ups and withdrawals require a request and admin approval before proceeding.
+•	Admin Features: Admins will manage all transaction requests.
+c. Game Mechanics and Algorithm
+•	Bet Distribution:
+o	70% of the total pot (bet amount) is awarded to the winning user(s).
+o	10% is allocated to admin/operational expenses.
+o	10% goes into the general fund (mother account).
+o	10% is distributed as incentives to upline members.
+•	Incentive Distribution:
+o	Every upline member in the network receives an incentive when a downline places a bet.
+o	The base incentive of 3% is reserved for the original 13 founding members.
+o	The remaining 7% is allocated to downlines: 
+	If the bettor is a proceeding downline, the direct upline receives 7%.
+	If there are multiple levels between the bettor and the direct upline, a 2% incentive per level applies until it reaches the next direct upline bettor.
+	If the final difference results in 1%, the upline receives only 1%; if the difference is 0%, no incentive is awarded.
+	To understand more, please refer to below scenarios.
+Scenario 1:
+User	Incentive
+Founder (Level 0)	3%
+Downline Level 1	7%
+Bettor	-
+Scenario 2:
+User	Incentive
+Founder (Level 0)	3%
+Downline Level 1	2%
+Downline Level 2	5%
+Bettor	-
+Scenario 3:
+User	Incentive
+Founder (Level 0)	3%
+Downline Level 1	2%
+Downline Level 2	2%
+Downline Level 3	3%
+Bettor	-
+Scenario 4:
+User	Incentive
+Founder (Level 0)	3%
+Downline Level 1	2%
+Downline Level 2	2%
+Downline Level 3	2%
+Downline Level 4	1%
+Bettor	-
+Scenario 5:
+User	Incentive
+Founder (Level 0)	3%
+Downline Level 1	2%
+Downline Level 2	2%
+Downline Level 3	2%
+Downline Level 4	1%
+Downline Level 5 or more	0% or no incentive
+Bettor	-
+ 
+•	Game Schedule:
+o	Spins occur twice daily:
+	Morning spin at 10:00 AM
+	Evening spin at 8:00 PM
+o	Betting closes 30 minutes before each scheduled spin.
+•	Betting and Number Selection:
+o	Numbers 00-99 are available for betting.
+o	Minimum bet per number: 1 point
+o	Maximum bet per number: 1000 points
+o	Accepted bet denominations: 1, 5, 10, 30, 50, 70, 100, 150, 200, 300, 500, 700, 1000
+o	Once a number reaches 1000 points in bets, it becomes locked and unavailable for further bets.
+•	Spin and Winning Mechanism:
+o	If the total bet amount is below 9000 points, the winning number will be one with the lowest bet amount or no bets at all (Win Low Mechanic).
+o	If the total bet amount is 9000 points or more, the winning number will be one with the highest bet amount (Win High Mechanic).
+o	The winner receives 7x their bet amount (e.g., a bet of 10 points results in 70 points if the number is selected).
+o	Number with max bet points(1000 points) will only win once 70% of the total pot (bet amount) is 7000 points or more.
+o	There will be 2 spinning wheel for each digit of the number.
+d. Other Pages/Features
+•	Game Dashboard: Displays the available numbers (00-99) and the current game session.
+•	History & Records: The system will store and display past game results and winners for transparency.
+Scope Limitations
+•	No Online Payment Integration: The app will not support direct online payments or financial transactions. All fund collections and transfers will remain manual.
+•	Hosting and Maintenance: Since this is an online mobile app, the 13 founding members will provide the hosting and domain fees for the app.
+•	Platform Availability: The development will only focus on Android compatibility.
+________________________________________
+Important Milestones & Payment Schedule
+•	Contract Signing: The 13 members must pay a 50% down payment (PHP 17,500.00).
+•	April 18, 2025: Prototype and logo completion. Open for new request.
+•	May 1, 2025 – June 20, 2025: Development Phase 1
+•	May 24, 2025: Game module implementation.
+•	June 20-30, 2025: System testing (50%-75% completion). Open for new request.
+•	June 30, 2025 – July 27, 2025: Development Phase 2
+•	July 28, 2025: Official launch. Remaining balance must be paid upon launch (PHP 17,500.00).
+________________________________________
+Additional Terms & Conditions
+•	Once signed, any requested additional features will incur extra costs. No request for additional features during development phases. Request can be only made during system testing or prototyping.
+•	The developers will provide bug fixes and performance updates within the first two months after launch at no additional cost.
+•	The 13 founding members are responsible for ensuring compliance with legal regulations regarding gaming applications.
+•	The project timeline and deliverables may be adjusted due to unforeseen technical challenges, but reasonable efforts will be made to meet deadlines.
+________________________________________
+Signatures:
+Founding Members:
+1.	________________________________________
+2.	________________________________________
+3.	________________________________________
+4.	________________________________________
+5.	________________________________________
+6.	________________________________________
+7.	________________________________________
+8.	________________________________________
+9.	________________________________________
+10.	________________________________________
+11.	________________________________________
+12.	________________________________________
+13.	________________________________________
+Developers:
+
+1.	JOHN LOUIS D. MERCARAL
+
+‘Date Signed: April 3, 2025
+
