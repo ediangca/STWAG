@@ -512,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LVrBTuVjcFDiB5UdXU5p-420" value="Lottery" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1739.95" y="425" width="180" height="120" as="geometry">
+          <mxGeometry x="1739.95" y="470" width="180" height="120" as="geometry">
             <mxRectangle x="350" y="400" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -560,7 +560,7 @@
             <mxPoint x="2050" y="525" as="sourcePoint" />
             <mxPoint x="1940" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1700" y="470" />
+              <mxPoint x="1700" y="515" />
               <mxPoint x="1700" y="755" />
             </Array>
           </mxGeometry>
