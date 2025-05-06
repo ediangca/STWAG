@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="dEiOhLW02s0xrNptyXfP">
-    <mxGraphModel dx="12" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="-314" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,11 @@
               <mxPoint x="1990" y="175" />
               <mxPoint x="1990" y="276" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWuf0uNgAEtprCMaJ-hS-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVrBTuVjcFDiB5UdXU5p-301">
+          <mxGeometry x="-0.4745" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LVrBTuVjcFDiB5UdXU5p-327" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;ERD &lt;/font&gt;- Spin To Win and Gain (STWAG)&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="1" vertex="1">
@@ -655,7 +660,7 @@
         <mxCell id="LVrBTuVjcFDiB5UdXU5p-374" value="Source of points&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;Bunos&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;TopUp&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;Incentives&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;Cashback (Unwithdrawable)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;Winning&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;Withdraw (negative)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" parent="dGwrxmg5t6R4W1a3yAPh-13" vertex="1">
           <mxGeometry x="30" y="15" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="k56aKeYukVT5-g6jjXax-1" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERoneToMany;rounded=0;fontFamily=Helvetica;fontColor=default;fontStyle=1;endFill=0;startFill=0;exitX=0;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVrBTuVjcFDiB5UdXU5p-181" target="LVrBTuVjcFDiB5UdXU5p-377">
+        <mxCell id="k56aKeYukVT5-g6jjXax-1" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERoneToMany;rounded=0;fontFamily=Helvetica;fontColor=default;fontStyle=1;endFill=0;startFill=0;exitX=0;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LVrBTuVjcFDiB5UdXU5p-181" target="LVrBTuVjcFDiB5UdXU5p-377" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="2040" y="180" as="sourcePoint" />
             <mxPoint x="1640" y="300" as="targetPoint" />
