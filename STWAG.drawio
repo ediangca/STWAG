@@ -16,7 +16,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD" id="dEiOhLW02s0xrNptyXfP">
-    <mxGraphModel dx="-391" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="-786" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,7 +667,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKkyhjxqblHdvRCuE2El-8" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="AKkyhjxqblHdvRCuE2El-6">
+        <mxCell id="AKkyhjxqblHdvRCuE2El-8" value="isWithdrawable" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="AKkyhjxqblHdvRCuE2El-6">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -735,7 +735,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKkyhjxqblHdvRCuE2El-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AKkyhjxqblHdvRCuE2El-13" value="consist" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="92.5" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
